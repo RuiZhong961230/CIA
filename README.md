@@ -17,7 +17,7 @@ journal = {Knowledge-Based Systems},
 pages = {113020},  
 year = {2025},  
 issn = {0950-7051},  
-doi = {https://doi.org/10.1016/j.knosys.2025.113020},  
+doi = {https://doi.org/10.1016/j.knosys.2025.113020 },  
 author = {Yuefeng Xu and Rui Zhong and Chao Zhang and Jun Yu},  
 }
 
