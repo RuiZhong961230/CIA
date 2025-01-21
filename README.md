@@ -12,15 +12,13 @@ Inspired by the observation of crested ibis foraging behavior, we propose a nove
 
 ## Citation
 @article{Xu:25,  
-title = {Crested Ibis Algorithm and its Application in Human-Powered Aircraft Design},  
+title = {Crested ibis algorithm and its application in human-powered aircraft design},  
 journal = {Knowledge-Based Systems},  
-volume = {},  
-pages = {},  
+pages = {113020},  
 year = {2025},  
 issn = {0950-7051},  
-doi = {},  
+doi = {https://doi.org/10.1016/j.knosys.2025.113020},  
 author = {Yuefeng Xu and Rui Zhong and Chao Zhang and Jun Yu},  
-not = {Accepted}  
 }
 
 ## Datasets and Libraries
