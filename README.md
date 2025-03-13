@@ -22,4 +22,8 @@ author = {Yuefeng Xu and Rui Zhong and Chao Zhang and Jun Yu},
 }
 
 ## Datasets and Libraries
-CEC benchmarks and Engineering problems are provided by opfunu and enoppy libraries, respectively. The Human-Powered Aircraft (HPA) Design problems can be downloaded from https://github.com/Nobuo-Namura/hpa.
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively. The Human-Powered Aircraft (HPA) Design problems can be downloaded from https://github.com/Nobuo-Namura/hpa.
+
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp and yujun[at]ie.niigata-u.ac.jp
